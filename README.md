@@ -7,4 +7,4 @@ on their pc hdd.
 
 check it out on : https://GawdOfROFL.github.io/rofl-fuzzer
 
-with the following [rule](ttps://raw.githubusercontent.com/googleprojectzero/domato/master/template.htm) as a starting example
+with the following [rule](https://raw.githubusercontent.com/googleprojectzero/domato/master/template.htm) as a starting example
