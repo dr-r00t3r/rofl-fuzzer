@@ -7,4 +7,4 @@ on their pc hdd.
 
 check it out on : https://rofl-fuzzer.netlify.app
 
-with the following [rule](https://raw.githubusercontent.com/googleprojectzero/domato/master/template.htm) as a starting example
+with the following [rule](https://raw.githubusercontent.com/googleprojectzero/domato/master/template.html) as a starting example
